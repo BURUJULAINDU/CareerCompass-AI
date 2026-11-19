@@ -1,0 +1,1165 @@
+{
+  "_note": "ILLUSTRATIVE SAMPLE DATA prepared for academic demonstration. These role profiles are NOT actual employer hiring requirements.",
+  "skill_catalog": {
+    "Python": {
+      "aliases": [
+        "python",
+        "python3",
+        "python 3"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "SQL": {
+      "aliases": [
+        "sql",
+        "structured query language"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "MySQL": {
+      "aliases": [
+        "mysql"
+      ],
+      "category": "technical",
+      "related": [
+        "SQL"
+      ]
+    },
+    "PostgreSQL": {
+      "aliases": [
+        "postgresql",
+        "postgres"
+      ],
+      "category": "technical",
+      "related": [
+        "SQL"
+      ]
+    },
+    "MongoDB": {
+      "aliases": [
+        "mongodb",
+        "mongo db"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Excel": {
+      "aliases": [
+        "excel",
+        "ms excel",
+        "microsoft excel",
+        "advanced excel",
+        "pivot table",
+        "pivot tables",
+        "vlookup"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Power BI": {
+      "aliases": [
+        "power bi",
+        "powerbi"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Tableau": {
+      "aliases": [
+        "tableau"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Statistics": {
+      "aliases": [
+        "statistics",
+        "statistical analysis",
+        "statistical",
+        "hypothesis testing"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Data Visualization": {
+      "aliases": [
+        "data visualization",
+        "data visualisation",
+        "dashboard",
+        "dashboards"
+      ],
+      "category": "technical",
+      "related": [
+        "Power BI",
+        "Tableau",
+        "Matplotlib"
+      ]
+    },
+    "Data Cleaning": {
+      "aliases": [
+        "data cleaning",
+        "data cleansing",
+        "data wrangling",
+        "data preprocessing",
+        "data preparation"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Pandas": {
+      "aliases": [
+        "pandas"
+      ],
+      "category": "technical",
+      "related": [
+        "NumPy"
+      ]
+    },
+    "NumPy": {
+      "aliases": [
+        "numpy"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Matplotlib": {
+      "aliases": [
+        "matplotlib",
+        "seaborn",
+        "plotly"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Scikit-learn": {
+      "aliases": [
+        "scikit-learn",
+        "scikit learn",
+        "sklearn"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Machine Learning": {
+      "aliases": [
+        "machine learning",
+        "ml"
+      ],
+      "category": "technical",
+      "related": [
+        "Scikit-learn",
+        "Deep Learning",
+        "Feature Engineering"
+      ]
+    },
+    "Feature Engineering": {
+      "aliases": [
+        "feature engineering"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Deep Learning": {
+      "aliases": [
+        "deep learning",
+        "neural network",
+        "neural networks",
+        "cnn",
+        "rnn",
+        "lstm"
+      ],
+      "category": "technical",
+      "related": [
+        "TensorFlow",
+        "PyTorch"
+      ]
+    },
+    "TensorFlow": {
+      "aliases": [
+        "tensorflow",
+        "keras"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "PyTorch": {
+      "aliases": [
+        "pytorch"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "NLP": {
+      "aliases": [
+        "nlp",
+        "natural language processing",
+        "text mining"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Generative AI": {
+      "aliases": [
+        "generative ai",
+        "genai",
+        "gen ai"
+      ],
+      "category": "technical",
+      "related": [
+        "LLMs",
+        "Prompt Engineering"
+      ]
+    },
+    "LLMs": {
+      "aliases": [
+        "llm",
+        "llms",
+        "large language model",
+        "large language models",
+        "llama",
+        "gpt",
+        "ollama"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Prompt Engineering": {
+      "aliases": [
+        "prompt engineering",
+        "prompt design"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "A/B Testing": {
+      "aliases": [
+        "a/b testing",
+        "ab testing",
+        "a/b test"
+      ],
+      "category": "technical",
+      "related": [
+        "Statistics"
+      ]
+    },
+    "Model Deployment": {
+      "aliases": [
+        "model deployment",
+        "deploying models",
+        "model serving"
+      ],
+      "category": "technical",
+      "related": [
+        "FastAPI",
+        "Flask",
+        "Docker",
+        "MLOps"
+      ]
+    },
+    "MLOps": {
+      "aliases": [
+        "mlops",
+        "mlflow"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Git": {
+      "aliases": [
+        "git",
+        "github",
+        "gitlab",
+        "version control"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Jupyter": {
+      "aliases": [
+        "jupyter",
+        "jupyter notebook",
+        "google colab",
+        "colab"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "FastAPI": {
+      "aliases": [
+        "fastapi"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Flask": {
+      "aliases": [
+        "flask"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Django": {
+      "aliases": [
+        "django"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "REST APIs": {
+      "aliases": [
+        "rest api",
+        "rest apis",
+        "restful",
+        "restful api",
+        "restful apis",
+        "api development"
+      ],
+      "category": "technical",
+      "related": [
+        "FastAPI",
+        "Flask",
+        "Django"
+      ]
+    },
+    "JavaScript": {
+      "aliases": [
+        "javascript",
+        "js",
+        "node.js",
+        "nodejs"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "React": {
+      "aliases": [
+        "react",
+        "react.js",
+        "reactjs"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "HTML/CSS": {
+      "aliases": [
+        "html",
+        "css",
+        "html5",
+        "css3"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Java": {
+      "aliases": [
+        "java"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "C++": {
+      "aliases": [
+        "c++"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "OOP": {
+      "aliases": [
+        "oop",
+        "object oriented",
+        "object-oriented",
+        "object oriented programming"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Data Structures": {
+      "aliases": [
+        "data structures",
+        "data structure"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Algorithms": {
+      "aliases": [
+        "algorithms",
+        "algorithm design"
+      ],
+      "category": "technical",
+      "related": [
+        "Data Structures"
+      ]
+    },
+    "Unit Testing": {
+      "aliases": [
+        "unit testing",
+        "unit tests",
+        "pytest",
+        "unittest",
+        "junit"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Agile": {
+      "aliases": [
+        "agile",
+        "scrum",
+        "kanban"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "JIRA": {
+      "aliases": [
+        "jira"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "CI/CD": {
+      "aliases": [
+        "ci/cd",
+        "ci cd",
+        "continuous integration",
+        "github actions",
+        "jenkins"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Docker": {
+      "aliases": [
+        "docker",
+        "containerization"
+      ],
+      "category": "technical",
+      "related": [
+        "Kubernetes"
+      ]
+    },
+    "Kubernetes": {
+      "aliases": [
+        "kubernetes",
+        "k8s"
+      ],
+      "category": "technical",
+      "related": [
+        "Docker"
+      ]
+    },
+    "Linux": {
+      "aliases": [
+        "linux",
+        "ubuntu",
+        "bash",
+        "shell scripting"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Cloud Computing": {
+      "aliases": [
+        "cloud computing",
+        "cloud"
+      ],
+      "category": "technical",
+      "related": [
+        "AWS",
+        "Azure",
+        "GCP"
+      ]
+    },
+    "AWS": {
+      "aliases": [
+        "aws",
+        "amazon web services",
+        "ec2",
+        "s3"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Azure": {
+      "aliases": [
+        "azure",
+        "microsoft azure"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "GCP": {
+      "aliases": [
+        "gcp",
+        "google cloud"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Terraform": {
+      "aliases": [
+        "terraform",
+        "infrastructure as code"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Networking": {
+      "aliases": [
+        "networking",
+        "computer networks",
+        "tcp/ip",
+        "dns"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Network Security": {
+      "aliases": [
+        "network security",
+        "firewall",
+        "firewalls",
+        "ids/ips"
+      ],
+      "category": "technical",
+      "related": [
+        "Networking",
+        "Penetration Testing"
+      ]
+    },
+    "SIEM": {
+      "aliases": [
+        "siem",
+        "splunk",
+        "qradar"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Incident Response": {
+      "aliases": [
+        "incident response",
+        "incident handling"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Cryptography": {
+      "aliases": [
+        "cryptography",
+        "encryption"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Penetration Testing": {
+      "aliases": [
+        "penetration testing",
+        "pen testing",
+        "ethical hacking",
+        "kali linux"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "ETL": {
+      "aliases": [
+        "etl",
+        "elt",
+        "data pipeline",
+        "data pipelines"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Data Warehousing": {
+      "aliases": [
+        "data warehousing",
+        "data warehouse",
+        "snowflake",
+        "redshift",
+        "bigquery"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Data Modeling": {
+      "aliases": [
+        "data modeling",
+        "data modelling",
+        "star schema",
+        "er diagram",
+        "er diagrams"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Spark": {
+      "aliases": [
+        "spark",
+        "pyspark",
+        "apache spark"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Hadoop": {
+      "aliases": [
+        "hadoop",
+        "hdfs"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Airflow": {
+      "aliases": [
+        "airflow",
+        "apache airflow"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Requirements Gathering": {
+      "aliases": [
+        "requirements gathering",
+        "requirement gathering",
+        "requirements analysis",
+        "business requirements",
+        "user stories",
+        "brd"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Process Modeling": {
+      "aliases": [
+        "process modeling",
+        "process modelling",
+        "bpmn",
+        "process mapping",
+        "flowcharts",
+        "uml"
+      ],
+      "category": "technical",
+      "related": []
+    },
+    "Communication": {
+      "aliases": [
+        "communication",
+        "communication skills",
+        "verbal communication"
+      ],
+      "category": "soft",
+      "related": []
+    },
+    "Teamwork": {
+      "aliases": [
+        "teamwork",
+        "team player",
+        "collaboration",
+        "collaborative"
+      ],
+      "category": "soft",
+      "related": []
+    },
+    "Problem Solving": {
+      "aliases": [
+        "problem solving",
+        "problem-solving"
+      ],
+      "category": "soft",
+      "related": []
+    },
+    "Critical Thinking": {
+      "aliases": [
+        "critical thinking"
+      ],
+      "category": "soft",
+      "related": []
+    },
+    "Analytical Thinking": {
+      "aliases": [
+        "analytical thinking",
+        "analytical skills",
+        "analytical"
+      ],
+      "category": "soft",
+      "related": []
+    },
+    "Leadership": {
+      "aliases": [
+        "leadership",
+        "team lead",
+        "led a team"
+      ],
+      "category": "soft",
+      "related": []
+    },
+    "Time Management": {
+      "aliases": [
+        "time management"
+      ],
+      "category": "soft",
+      "related": []
+    },
+    "Adaptability": {
+      "aliases": [
+        "adaptability",
+        "quick learner",
+        "fast learner"
+      ],
+      "category": "soft",
+      "related": []
+    },
+    "Attention to Detail": {
+      "aliases": [
+        "attention to detail",
+        "detail-oriented",
+        "detail oriented"
+      ],
+      "category": "soft",
+      "related": []
+    },
+    "Presentation": {
+      "aliases": [
+        "presentation",
+        "presentation skills",
+        "public speaking"
+      ],
+      "category": "soft",
+      "related": []
+    },
+    "Stakeholder Management": {
+      "aliases": [
+        "stakeholder management",
+        "stakeholder communication"
+      ],
+      "category": "soft",
+      "related": []
+    },
+    "Creativity": {
+      "aliases": [
+        "creativity",
+        "creative thinking"
+      ],
+      "category": "soft",
+      "related": []
+    }
+  },
+  "roles": {
+    "Data Analyst": {
+      "description": "Turns raw data into reports, dashboards and insights that help teams make decisions.",
+      "required_technical": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Data Visualization",
+        "Statistics",
+        "Data Cleaning",
+        "Pandas"
+      ],
+      "preferred_technical": [
+        "Power BI",
+        "Tableau",
+        "Matplotlib",
+        "A/B Testing",
+        "Git"
+      ],
+      "soft_skills": [
+        "Communication",
+        "Analytical Thinking",
+        "Attention to Detail",
+        "Presentation",
+        "Problem Solving"
+      ],
+      "beginner_learning": [
+        "Start with SQL SELECT, JOIN and GROUP BY on a practice database.",
+        "Learn Excel pivot tables and basic formulas.",
+        "Learn pandas for cleaning and summarising CSV files.",
+        "Build one small dashboard from a public dataset."
+      ],
+      "interest_keywords": [
+        "data",
+        "analysis",
+        "analytics",
+        "dashboard",
+        "reporting",
+        "insights",
+        "business"
+      ]
+    },
+    "Data Scientist": {
+      "description": "Builds statistical and machine learning models to find patterns and make predictions.",
+      "required_technical": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "Pandas",
+        "NumPy",
+        "Scikit-learn",
+        "SQL",
+        "Data Visualization",
+        "Feature Engineering"
+      ],
+      "preferred_technical": [
+        "Deep Learning",
+        "NLP",
+        "Matplotlib",
+        "Git",
+        "Jupyter",
+        "A/B Testing"
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Communication",
+        "Critical Thinking",
+        "Analytical Thinking"
+      ],
+      "beginner_learning": [
+        "Revise probability, distributions and hypothesis testing.",
+        "Practise pandas and NumPy on messy datasets.",
+        "Train simple models with scikit-learn and compare them using cross-validation.",
+        "Complete one end-to-end prediction project and explain it in a notebook."
+      ],
+      "interest_keywords": [
+        "data science",
+        "prediction",
+        "model",
+        "machine learning",
+        "statistics",
+        "research"
+      ]
+    },
+    "Machine Learning Engineer": {
+      "description": "Designs, trains and deploys machine learning models as reliable software.",
+      "required_technical": [
+        "Python",
+        "Machine Learning",
+        "Scikit-learn",
+        "Deep Learning",
+        "Model Deployment",
+        "Git",
+        "Docker",
+        "SQL",
+        "Data Structures",
+        "Algorithms"
+      ],
+      "preferred_technical": [
+        "TensorFlow",
+        "PyTorch",
+        "MLOps",
+        "FastAPI",
+        "AWS",
+        "CI/CD",
+        "Linux"
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Critical Thinking",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "beginner_learning": [
+        "Strengthen Python, data structures and Git first.",
+        "Learn the machine learning workflow with scikit-learn.",
+        "Wrap a trained model in a small FastAPI service.",
+        "Learn Docker basics to package the service."
+      ],
+      "interest_keywords": [
+        "machine learning",
+        "deployment",
+        "models",
+        "engineering",
+        "deep learning",
+        "mlops"
+      ]
+    },
+    "Python Developer": {
+      "description": "Builds back-end services, tools and automation using Python.",
+      "required_technical": [
+        "Python",
+        "OOP",
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "REST APIs",
+        "SQL",
+        "Unit Testing"
+      ],
+      "preferred_technical": [
+        "FastAPI",
+        "Django",
+        "Flask",
+        "Docker",
+        "Linux",
+        "CI/CD",
+        "PostgreSQL"
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Teamwork",
+        "Time Management",
+        "Attention to Detail"
+      ],
+      "beginner_learning": [
+        "Practise core Python, classes and modules daily.",
+        "Build a small REST API with FastAPI or Flask.",
+        "Learn Git branches and pull requests.",
+        "Write unit tests for the API you built."
+      ],
+      "interest_keywords": [
+        "python",
+        "backend",
+        "developer",
+        "api",
+        "automation",
+        "programming",
+        "web"
+      ]
+    },
+    "Business Analyst": {
+      "description": "Connects business needs with technical teams using requirements, data and process analysis.",
+      "required_technical": [
+        "Requirements Gathering",
+        "SQL",
+        "Excel",
+        "Process Modeling",
+        "Data Visualization",
+        "Agile"
+      ],
+      "preferred_technical": [
+        "Power BI",
+        "Tableau",
+        "JIRA",
+        "Python",
+        "A/B Testing"
+      ],
+      "soft_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Analytical Thinking",
+        "Presentation",
+        "Problem Solving"
+      ],
+      "beginner_learning": [
+        "Learn to write user stories and acceptance criteria.",
+        "Practise drawing process flows and simple UML diagrams.",
+        "Learn SQL basics and Excel pivot tables.",
+        "Understand Agile and Scrum ceremonies."
+      ],
+      "interest_keywords": [
+        "business",
+        "requirements",
+        "stakeholder",
+        "process",
+        "consulting",
+        "management"
+      ]
+    },
+    "AI Engineer": {
+      "description": "Builds applications powered by large language models and other AI techniques.",
+      "required_technical": [
+        "Python",
+        "Generative AI",
+        "LLMs",
+        "Prompt Engineering",
+        "NLP",
+        "REST APIs",
+        "Git",
+        "Machine Learning"
+      ],
+      "preferred_technical": [
+        "FastAPI",
+        "Deep Learning",
+        "PyTorch",
+        "Docker",
+        "AWS",
+        "MLOps"
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Creativity",
+        "Adaptability",
+        "Communication"
+      ],
+      "beginner_learning": [
+        "Learn how LLMs work and how to write structured prompts.",
+        "Call a local model through an API and validate its output.",
+        "Study basic NLP such as tokenisation and embeddings.",
+        "Build a small LLM-powered app, such as a chatbot."
+      ],
+      "interest_keywords": [
+        "ai",
+        "llm",
+        "generative",
+        "chatbot",
+        "nlp",
+        "prompt",
+        "artificial intelligence"
+      ]
+    },
+    "Software Developer": {
+      "description": "Designs, codes, tests and maintains software applications.",
+      "required_technical": [
+        "Data Structures",
+        "Algorithms",
+        "OOP",
+        "Git",
+        "SQL",
+        "REST APIs",
+        "Unit Testing",
+        "Agile"
+      ],
+      "preferred_technical": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Docker",
+        "CI/CD",
+        "Linux"
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Teamwork",
+        "Communication",
+        "Time Management"
+      ],
+      "beginner_learning": [
+        "Solve beginner problems on arrays, strings and recursion.",
+        "Learn one language well, then OOP concepts.",
+        "Build a CRUD application with a database.",
+        "Learn Git workflow and basic unit testing."
+      ],
+      "interest_keywords": [
+        "software",
+        "developer",
+        "coding",
+        "programming",
+        "application",
+        "web",
+        "engineering"
+      ]
+    },
+    "Data Engineer": {
+      "description": "Builds the pipelines and storage systems that deliver reliable data to analysts and models.",
+      "required_technical": [
+        "Python",
+        "SQL",
+        "ETL",
+        "Data Warehousing",
+        "Data Modeling",
+        "Spark",
+        "Linux",
+        "Git"
+      ],
+      "preferred_technical": [
+        "Airflow",
+        "Hadoop",
+        "AWS",
+        "Docker",
+        "PostgreSQL",
+        "MongoDB"
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Attention to Detail",
+        "Teamwork",
+        "Adaptability"
+      ],
+      "beginner_learning": [
+        "Become comfortable with SQL joins and window functions.",
+        "Write a small Python ETL script that cleans and loads a CSV.",
+        "Learn dimensional modelling (star schema).",
+        "Try PySpark on a small dataset."
+      ],
+      "interest_keywords": [
+        "pipeline",
+        "etl",
+        "data engineering",
+        "warehouse",
+        "big data",
+        "infrastructure"
+      ]
+    },
+    "Cloud Engineer": {
+      "description": "Designs, deploys and operates applications and infrastructure on cloud platforms.",
+      "required_technical": [
+        "Cloud Computing",
+        "AWS",
+        "Linux",
+        "Networking",
+        "Docker",
+        "CI/CD",
+        "Git"
+      ],
+      "preferred_technical": [
+        "Azure",
+        "GCP",
+        "Kubernetes",
+        "Terraform",
+        "Python"
+      ],
+      "soft_skills": [
+        "Problem Solving",
+        "Adaptability",
+        "Teamwork",
+        "Time Management"
+      ],
+      "beginner_learning": [
+        "Learn Linux command line and basic networking.",
+        "Create a free-tier cloud account and launch a virtual machine.",
+        "Package a small app with Docker.",
+        "Learn a simple CI/CD pipeline with GitHub Actions."
+      ],
+      "interest_keywords": [
+        "cloud",
+        "infrastructure",
+        "devops",
+        "aws",
+        "azure",
+        "deployment"
+      ]
+    },
+    "Cybersecurity Analyst": {
+      "description": "Monitors systems, detects threats and responds to security incidents.",
+      "required_technical": [
+        "Networking",
+        "Network Security",
+        "Linux",
+        "SIEM",
+        "Incident Response",
+        "Cryptography"
+      ],
+      "preferred_technical": [
+        "Penetration Testing",
+        "Python",
+        "Cloud Computing"
+      ],
+      "soft_skills": [
+        "Attention to Detail",
+        "Problem Solving",
+        "Critical Thinking",
+        "Communication"
+      ],
+      "beginner_learning": [
+        "Learn TCP/IP, DNS and HTTP basics.",
+        "Practise Linux commands and log reading.",
+        "Study common attacks and defences.",
+        "Try a beginner security lab in a safe, legal environment."
+      ],
+      "interest_keywords": [
+        "security",
+        "cyber",
+        "hacking",
+        "threat",
+        "network",
+        "privacy"
+      ]
+    }
+  }
+}

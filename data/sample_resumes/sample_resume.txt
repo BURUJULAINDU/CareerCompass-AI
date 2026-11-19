@@ -1,0 +1,31 @@
+SAMPLE RESUME - FICTIONAL DATA FOR TESTING ONLY
+
+Rahul Sample
+Email: rahul.sample@example.com | Phone: +91 98765 43210
+
+SUMMARY
+MSc Data Science student interested in data analysis and machine learning with hands-on project experience.
+
+EDUCATION
+Master of Science (Data Science) - Sample University, 2025-2027
+Bachelor of Computer Applications - Sample College, 2022-2025, CGPA 8.1
+
+SKILLS
+Python, SQL, Excel, Pandas, NumPy, Matplotlib, Scikit-learn, Git, Jupyter Notebook, Power BI
+Statistics, Data Cleaning, Machine Learning
+Communication, Teamwork, Problem Solving
+
+EXPERIENCE
+Data Analyst Intern - Sample Analytics Pvt Ltd (3 months)
+- Cleaned and analysed sales data of 50,000 records using Pandas and SQL
+- Built a Power BI dashboard used by a team of 6 people
+
+PROJECTS
+Customer Churn Prediction
+- Built a logistic regression model using Scikit-learn with 82% accuracy on a public dataset
+Sales Dashboard
+- Created interactive dashboards with Power BI and Excel pivot tables
+
+CERTIFICATIONS
+Google Data Analytics Certificate (course completion)
+Python for Data Science - online course
